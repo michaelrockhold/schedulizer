@@ -1,0 +1,375 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4C6ADBF910432E7700C40E3F /* schedulizer */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* schedulizer */;
+		breakpoints = (
+			4C6ADC0E104335BC00C40E3F /* schedulizer.m:74 */,
+			4C6ADC10104335C100C40E3F /* schedulizer.m:129 */,
+			4C6ADC12104335C400C40E3F /* schedulizer.m:152 */,
+			4C6ADC14104335C800C40E3F /* schedulizer.m:191 */,
+			4C6ADC17104335E200C40E3F /* schedulizer.m:82 */,
+			4C6ADC1F1043363500C40E3F /* schedulizer.m:221 */,
+			4C6ADC22104336A900C40E3F /* schedulizer.m:168 */,
+		);
+		codeSenseManager = 4C6ADC0010432E9600C40E3F /* Code sense */;
+		executables = (
+			4C6ADBF910432E7700C40E3F /* schedulizer */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 272838263;
+			PBXWorkspaceStateSaveDate = 272838263;
+		};
+		perUserProjectItems = {
+			4C6ADBFE10432E7F00C40E3F /* PBXBookmark */ = 4C6ADBFE10432E7F00C40E3F /* PBXBookmark */;
+			4C6ADC7710445F5D00C40E3F /* PBXTextBookmark */ = 4C6ADC7710445F5D00C40E3F /* PBXTextBookmark */;
+			4C6ADC7910445F5D00C40E3F /* PBXTextBookmark */ = 4C6ADC7910445F5D00C40E3F /* PBXTextBookmark */;
+			4C6ADC7D10445F5D00C40E3F /* PBXTextBookmark */ = 4C6ADC7D10445F5D00C40E3F /* PBXTextBookmark */;
+			4C6ADC8B1045B25100C40E3F /* PBXTextBookmark */ = 4C6ADC8B1045B25100C40E3F /* PBXTextBookmark */;
+			4C6ADC8C1045B25100C40E3F /* PBXTextBookmark */ = 4C6ADC8C1045B25100C40E3F /* PBXTextBookmark */;
+			4C6ADCD81046FC4B00C40E3F /* PBXTextBookmark */ = 4C6ADCD81046FC4B00C40E3F /* PBXTextBookmark */;
+			4C6ADDD31047602400C40E3F /* PBXBookmark */ = 4C6ADDD31047602400C40E3F /* PBXBookmark */;
+			4C6ADDDD1048459600C40E3F /* PBXTextBookmark */ = 4C6ADDDD1048459600C40E3F /* PBXTextBookmark */;
+			4C6ADDDE1048459600C40E3F /* PBXTextBookmark */ = 4C6ADDDE1048459600C40E3F /* PBXTextBookmark */;
+			4C6ADDF610484BD100C40E3F /* PBXTextBookmark */ = 4C6ADDF610484BD100C40E3F /* PBXTextBookmark */;
+			4C6ADDF710484BD100C40E3F /* PBXTextBookmark */ = 4C6ADDF710484BD100C40E3F /* PBXTextBookmark */;
+			4C6ADE5F104899E100C40E3F /* PBXTextBookmark */ = 4C6ADE5F104899E100C40E3F /* PBXTextBookmark */;
+			4C6ADE60104899E100C40E3F /* PBXTextBookmark */ = 4C6ADE60104899E100C40E3F /* PBXTextBookmark */;
+			4C6ADF351049D2B400C40E3F /* PBXTextBookmark */ = 4C6ADF351049D2B400C40E3F /* PBXTextBookmark */;
+			4C6ADF361049D2B400C40E3F /* PBXTextBookmark */ = 4C6ADF361049D2B400C40E3F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4C6ADBFF10432E9600C40E3F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* schedulizer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1046, 2719}}";
+			sepNavSelRange = "{3657, 0}";
+			sepNavVisRange = "{3049, 1244}";
+			sepNavWindowFrame = "{{18, 0}, {1105, 778}}";
+		};
+	};
+	4C6ADBF910432E7700C40E3F /* schedulizer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = schedulizer;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4C6ADBFE10432E7F00C40E3F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+	};
+	4C6ADBFF10432E9600C40E3F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	4C6ADC0010432E9600C40E3F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C6ADC0E104335BC00C40E3F /* schedulizer.m:74 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		functionName = "-main";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 74;
+		modificationTime = 273276371.258454;
+		state = 0;
+	};
+	4C6ADC10104335C100C40E3F /* schedulizer.m:129 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		functionName = "-connection:didReceiveResponse:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 129;
+		modificationTime = 273276371.408792;
+		state = 0;
+	};
+	4C6ADC12104335C400C40E3F /* schedulizer.m:152 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		functionName = "-connection:didReceiveData:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 152;
+		modificationTime = 273276371.554936;
+		state = 0;
+	};
+	4C6ADC14104335C800C40E3F /* schedulizer.m:191 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		functionName = "-connectionDidFinishLoading:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 191;
+		modificationTime = 273276371.655495;
+		state = 0;
+	};
+	4C6ADC17104335E200C40E3F /* schedulizer.m:82 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		functionName = "-startScheduleDownload:connectionPtr:scheduleDataPtr:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 82;
+		modificationTime = 273276371.810667;
+		state = 0;
+	};
+	4C6ADC1F1043363500C40E3F /* schedulizer.m:221 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 221;
+		modificationTime = 273276371.894463;
+		state = 0;
+	};
+	4C6ADC22104336A900C40E3F /* schedulizer.m:168 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		functionName = "-connection:didFailWithError:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 168;
+		modificationTime = 273276372.050757;
+		state = 0;
+	};
+	4C6ADC7710445F5D00C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C6ADC7810445F5D00C40E3F /* scratch.txt */;
+		rLen = 0;
+		rLoc = 2147485210;
+		rType = 0;
+	};
+	4C6ADC7810445F5D00C40E3F /* scratch.txt */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = scratch.txt;
+		path = /Users/michael/Projects/schedulizer/scratch.txt;
+		sourceTree = "<absolute>";
+	};
+	4C6ADC7910445F5D00C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C6ADC7A10445F5D00C40E3F /* scratch.txt */;
+		name = "scratch.txt: 2";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 0;
+	};
+	4C6ADC7A10445F5D00C40E3F /* scratch.txt */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = scratch.txt;
+		path = /Users/michael/Projects/schedulizer/scratch.txt;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1046, 650}}";
+			sepNavSelRange = "{1563, 0}";
+			sepNavVisRange = "{0, 1563}";
+		};
+	};
+	4C6ADC7D10445F5D00C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		name = "schedulizer.m: 122";
+		rLen = 0;
+		rLoc = 3655;
+		rType = 0;
+		vrLen = 1284;
+		vrLoc = 2879;
+	};
+	4C6ADC8B1045B25100C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C6ADC7A10445F5D00C40E3F /* scratch.txt */;
+		name = "scratch.txt: 2";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 0;
+	};
+	4C6ADC8C1045B25100C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		name = "schedulizer.m: 122";
+		rLen = 0;
+		rLoc = 3655;
+		rType = 0;
+		vrLen = 1284;
+		vrLoc = 2879;
+	};
+	4C6ADCD81046FC4B00C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C6ADC7A10445F5D00C40E3F /* scratch.txt */;
+		name = "scratch.txt: 2";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 0;
+	};
+	4C6ADDD31047602400C40E3F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+	};
+	4C6ADDDD1048459600C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		name = "schedulizer.m: 123";
+		rLen = 0;
+		rLoc = 3657;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 3049;
+	};
+	4C6ADDDE1048459600C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C6ADC7A10445F5D00C40E3F /* scratch.txt */;
+		name = "scratch.txt: 2";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 1543;
+		vrLoc = 0;
+	};
+	4C6ADDF610484BD100C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C6ADC7A10445F5D00C40E3F /* scratch.txt */;
+		name = "scratch.txt: 41";
+		rLen = 0;
+		rLoc = 1563;
+		rType = 0;
+		vrLen = 1563;
+		vrLoc = 0;
+	};
+	4C6ADDF710484BD100C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		name = "schedulizer.m: 123";
+		rLen = 0;
+		rLoc = 3657;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 3049;
+	};
+	4C6ADE5F104899E100C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C6ADC7A10445F5D00C40E3F /* scratch.txt */;
+		name = "scratch.txt: 41";
+		rLen = 0;
+		rLoc = 1563;
+		rType = 0;
+		vrLen = 1563;
+		vrLoc = 0;
+	};
+	4C6ADE60104899E100C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		name = "schedulizer.m: 123";
+		rLen = 0;
+		rLoc = 3657;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 3049;
+	};
+	4C6ADF351049D2B400C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C6ADC7A10445F5D00C40E3F /* scratch.txt */;
+		name = "scratch.txt: 41";
+		rLen = 0;
+		rLoc = 1563;
+		rType = 0;
+		vrLen = 1563;
+		vrLoc = 0;
+	};
+	4C6ADF361049D2B400C40E3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* schedulizer.m */;
+		name = "schedulizer.m: 123";
+		rLen = 0;
+		rLoc = 3657;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 3049;
+	};
+	8DD76F960486AA7600D96B5E /* schedulizer */ = {
+		activeExec = 0;
+		executables = (
+			4C6ADBF910432E7700C40E3F /* schedulizer */,
+		);
+	};
+}
